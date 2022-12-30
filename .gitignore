@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+client.json
+*myenv/
+*__pycache__/
